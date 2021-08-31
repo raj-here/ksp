@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Player should take a snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Fetch
+    </button>
+  </div>
+</DocumentFragment>
+`;
